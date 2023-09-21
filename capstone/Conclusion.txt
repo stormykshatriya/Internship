@@ -1,0 +1,52 @@
+Algorithm Used
+
+K-Means Support Vector Machine Logistic Regression Random Forest
+
+Conclusion
+
+Crime prediction is one the current trends in the society.Crime prediction intends to reduce crime occurences. It does this by predicting which type of crime may occur in future.Here, analysis of crime prediction are performed with the help of various approaches. From the results obtained we saw that the training time random Forest is very High thus ir should be avoided for this dataset.However which model will work best is totally dependent on the dataset. However which model will work best is totally dependent on the dataset that is being used.
+
+Future Scope
+
+As of now, the project relies on manual input from a human in order to enter details in the database. if we can make this a certralised system and connect it to all the police station countrywide and make FIR reporting digital,then it would be quite easier to predict crimes in that particular location and recognize patterns in them. It would also encourage citizens to track their E-FIR online. We can also avoid corruption as the goverment can keep a track on the number of cases registered and their solvability rate which can help them utilise their resources better.
+
+The report contains statistical information on cognizable crimes as reported in police stations during the reference year. Information on police casualties and police firing, police & civilians casualties is given in separate chapters to ensure adequate focus to these issues. Information on complaints against police personnel and custodial crimes has also been given in separate chapters. It has been our constant endeavour to improve the scope, coverage, content and presentation of the publication. In this connection, the Bureau has started publication of dedicated chapters on cyber crimes, human trafficking, crime against senior citizens, crime against foreigners inter-alia foreign tourists, offences against the State, environment related offences and seizures of arms & drugs by police. Besides, data on economic crimes, recidivism and crime in railways has also been given in separate chapters. Information on kidnapping and abduction is presented in respect of total population, women & girls and children separately. The report is the only, and most comprehensive, databank available with the Government of India on the subject. The data contained in the report is used by policy makers, NGOs, researchers and public at large. Keeping in view the extensive, and increasing, dependence of various stakeholders on the information contained in the report, we have, on our own initiative, digitised all the editions of the report from 1953 to 2020 and made them available on our website. Besides, historical data in open source formats are also made available on Open Government Data.While our achievements make us proud, they do not make us complacent. The presentation of the report has also been improved over the years. Thus, a good number of graphs and maps have been included in the report recently. We are open to improving the content and presentation of the report to make it more useful to the stakeholders. We welcome any suggestion(s) from users who may like to help us in our quest for excellence.
+
+For making report on Indian Crime  i have used some links which shown below
+
+https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_crime_rate
+
+https://www.indiacensus.net/
+
+https://knowindia.india.gov.in/states-uts/
+
+https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_population
+
+for the making list for the analising crime in India we used links given above and collected data from them with the help of various website and wiki page
+
+in the wiki page found not exact data but tends to exact data  some date we clooected from the website of NCRB (National Criome Records Bureau)
+
+the link we used for the exact data that is https://ncrb.gov.in/en/crime-india
+
+over all the conclusion is that if we used prediction about the crime in India with the help of ML and AI then it will be benaficiary for the society and the our country as well.
+
+The impacts of crime on society and the economy are far-reaching and multifaceted. In society, crime engenders feelings of fear, mistrust, and insecurity among individuals, leading to a diminished quality of life. Communities affected by high crime rates often suffer from a breakdown in social cohesion, increased isolation, and a decline in community engagement. Moreover, crime can have devastating consequences for the victims and their families, causing physical and psychological trauma that can persist for years.
+
+Economically, the crime rate poses a significant burden. It results in increased healthcare costs, loss of productivity, and expenses related to law enforcement and the criminal justice system. Additionally, crime deters investments, hampers economic growth, and tarnishes a country’s reputation, impacting tourism and foreign direct investment. Therefore, addressing crime is crucial for fostering a safer society and a thriving economy.
+
+Major crime rate categories and trends provide valuable insights into the prevailing criminal landscape. In India, these categories encompass a range of offenses. Homicide, assault, theft, robbery, and sexual offenses are among the prominent crime categories. Trends in these categories can shed light on changing patterns and methods employed by criminals. For example, the rise of cybercrime crime rate and its various forms, such as online fraud and identity theft, is a notable trend in recent years.
+
+Additionally, crimes against women and children, including sexual assault and child abuse, continue to be of great concern. Monitoring major crime categories and identifying emerging trends is crucial for law enforcement agencies and policymakers to develop effective strategies for crime prevention and ensure the safety and security of the population.
+
+With the Help of this report we got to know repots given below
+
+Uttar Pradesh: The per capita crime rate of UP is 7.4. According to the National Crime Records Bureau, this ratio means that Uttar Pradesh has the highest number of crimes, and thus, the state is unsafe to travel alone.
+Arunachal Pradesh: The crime rate and other factors have made the state responsible for coming second in danger. Traveling alone after dark is banned in many areas of Arunachal Pradesh. The crime rate is around 5.8 and it is increasing with the increasing number of crimes.
+Jharkhand: Jharkhand is another state which should not be missed from the point of view of danger. Little has been done for the safety of the people. Many criminal cases are not even registered in the police files. Talking about the ratio, the per capita crime rate in the state has been recorded at 5.3.
+Meghalaya: Meghalaya ranks fourth in terms of security and crime. Some areas in Meghalaya are said to be unsafe for travel and restricted for people. In recent reports, the state was declared with crimes per capita of 5.1 and is considered one of the top dangerous states in India.
+Delhi: Although Delhi ranks fifth, the state has a crime rate of 5 per capita as per the crime bureau. The sad fact is that despite the reign of political power in the state; Very little has been done in terms of its safety.
+Assam: Ranks sixth in terms of crime rate in India. As compared to other states, Assam has registered a crime ratio of 4.4 per capita in India. We are yet to go with 4 more top dangerous states in India.
+Chhattisgarh: Crime has also increased to a great extent in Chhattisgarh. The state has a crime rate rating of 4 per capita and this is an alarming number enough to mention. This place is considered unsafe for many reasons, especially for women.
+Haryana: Haryana has recorded a per capita crime rate of 3.8. The state is known for robbery, theft, bribery, murder, rape, and more. Thus, the political powers are trying to take stringent measures to control the crime rate. It is also called one of the 10 most dangerous states of India.
+Odisha: Also shares 3.8 per capita crimes in India. The place is known for larceny, theft, and bribery. Various areas have been targeted for drugs and drunkenness. It has also spoiled the youth to a great extent in drug addiction.
+Andhra Pradesh: Last but, not least is the crime rate in Andhra Pradesh. The state has increased to a 3.6 per capita ratio of crime in India.
